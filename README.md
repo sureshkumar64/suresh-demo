@@ -1,4 +1,4 @@
 # suresh-demo
 this is my first repo
 <br>
-auther:-  Suresh Kumar
+auther:-  Suresh Kumar sharma
